@@ -1,0 +1,2 @@
+# soup-zeer1
+Estou iniciando um projeto utilizando apenas HTML, CSS e JavaScript. Trata-se de uma página do ramo alimentício com foco em delivery. Ainda há muito o que ser feito e o projeto está apenas no início. É preciso adicionar links, carrinho de compras, cálculo de frete, desconto, adicionar formas de pagamento, redes sociais etc. À medida que o projeto for sendo concluído, farei a atualização aqui.
